@@ -1,1 +1,3 @@
-print (2+2)
+one = 1
+proof = one+one
+print (proof)
